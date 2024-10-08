@@ -1,5 +1,4 @@
-//Arduino Bluetooth Controlled Car by Quad Robotics - A unit of Quad Store
-//www.quadstore.in
+
 
 #include <AFMotor.h>
 
